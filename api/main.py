@@ -16,8 +16,7 @@ class Customer(BaseModel):
     paperless_billing: str
     payment_method: str
 
-pipeline = joblib.load("saved_model/churn_pipeline.pkl")
-
+pipeline = joblib.load("Saved_Model/churn_pipeline.pkl")
 
 @app.get("/")
 def home():
