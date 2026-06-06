@@ -18,7 +18,8 @@ This project answers that question. Given a customer's demographics, service usa
 | Component | Link |
 |-----------|------|
 | 🖥️ Streamlit Dashboard | [Live App ↗](https://customer-churn-prediction-g3w38kmknzhvu4porydhpv.streamlit.app/) |
-| ⚡ FastAPI Endpoint | Coming soon — deploying to Render |
+| ⚡ FastAPI Endpoint | [Live API ↗](https://customer-churn-prediction-wgro.onrender.com) |
+| 📖 API Docs (Swagger) | [Interactive Docs ↗](https://customer-churn-prediction-wgro.onrender.com/docs) |
 | 📓 Notebook Walkthrough | [View in Repo ↗](https://github.com/Anubha124/customer-churn-prediction/tree/main/Model) |
 
 ---
