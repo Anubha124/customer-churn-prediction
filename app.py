@@ -101,8 +101,8 @@ if st.button("Predict Churn"):
     }
 
     response = requests.post(
-        "http://127.0.0.1:8000/predict",
-        json=data
+    "https://customer-churn-prediction-wgro.onrender.com/predict",
+    json=data
     )
 
     result = response.json()
